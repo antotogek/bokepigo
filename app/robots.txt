@@ -1,8 +1,4 @@
-# Block all crawlers for /accounts
 User-agent: *
 Disallow:
-
-# Allow all crawlers
-User-agent: *
 Allow: /
 Sitemap: https://bokepigo.pages.dev/sitemap.xml
